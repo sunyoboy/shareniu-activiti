@@ -12,9 +12,9 @@
 			</value>
 		</property>
 		<property name="username">
-			<value>root</value>
+			<value>activiti1</value>
 		</property>
-		<property name="password" value="moka@sun" />
+		<property name="password" value="activiti1" />
 		<!--  -->
 	</bean>
 	<!--  -->
