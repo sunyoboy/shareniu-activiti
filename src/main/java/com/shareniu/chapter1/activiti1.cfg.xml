@@ -14,7 +14,7 @@
 		<property name="username">
 			<value>root</value>
 		</property>
-		<property name="password" value="" />
+		<property name="password" value="moka@sun" />
 		<!--  -->
 	</bean>
 	<!--  -->
