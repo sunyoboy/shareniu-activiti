@@ -58,9 +58,9 @@ public class App {
 		Context.setProcessEngineConfiguration((ProcessEngineConfigurationImpl) processEngine.getProcessEngineConfiguration());
 		ProcessDiagramGenerator pdg = processEngine
 				.getProcessEngineConfiguration().getProcessDiagramGenerator();
-		List<String> list=new ArrayList<>();
+		List<String> list=new ArrayList<String>();
 		list.add("usertask3");
-		List<String> list1=new ArrayList<>();
+		List<String> list1=new ArrayList<String>();
 		list1.add("flow1");
 		list1.add("flow8");
 		InputStream is = pdg.generateDiagram(bpmnModel, "png",list,list1);

@@ -2,3 +2,6 @@
 /.bpmn
 /.settings
 /.xml
+.idea
+
+activiti.iml
